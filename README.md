@@ -1,1 +1,8 @@
-# Protfolio-
+# Protfolio- Brandon Porter 02_21_2023
+
+The objective was to create a game that people could play from any platform and to make the proper recomendations. The client wanted a web-based game that was similar to its android version. 
+What I did well in this was creating a good template every week aand what I did even better than that was retain a lot of information, if I was asked again with out notes or research about some random info to do with software platforms I would likely draw a blank. There is a lot in this class and with out studing and understanding every detail, you will get lost. So retaining the informationa dn providing a well writen template with recomendations. 
+The diagrams helped me understadn what was going on and what I had to do. I wish we had more indepth things going projects to do and maybe creating some form of an app and not jsut fixme. 
+I wouldnt fix anything persay but there is a lot more indepth information between the platforms that could be really evaluated. In many cases it seems like picking windows is the go to every time and we know people have preferences and we know some people don't want to have windows. This leads to getting more in depth about how critical it is or not to have certain platforms. For this course and maven, windows virtual machine was idea in comparison to my Mac. 
+The usuer is the customer, you have to have tehir needs above everything aside from your employees. So its importatnt to make sure those needs are met and cared about along the process. I did a great job at acknolegding all of the client and users needs and making sure that everything was answered and done to the best of my abilities. 
+I would get more comfortable with diagrams, make sure I fully understand where everything is going and or coming from and that really puts everything in to some for of prospective when analyzing and making choices. 
